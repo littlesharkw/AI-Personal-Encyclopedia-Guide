@@ -3,6 +3,14 @@
 Recommended AI: ChatGPT
 
 ---
+## BEFORE YOU START
+
+手动上传：
+
+**Official Master Index**
+
+确认文件已经在当前 ChatGPT 对话中可用后，
+再发送下面的 Prompt。
 
 # PROMPT
 
