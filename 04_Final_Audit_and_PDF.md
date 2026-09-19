@@ -25,5 +25,5 @@ Recommended AI: ChatGPT
 ## PROMPT 2 — BUILD THE FINAL PDF
 
 ```text
-很好。现在请把这些封面、目录和所有正式图鉴页面按照正确顺序合并成最终 PDF；目录中的每个正式标题都要可以点击并直接跳到对应页面，同时写入 PDF Metadata：Title 使用「系列／知识领域 | 具体主题中文名 English Name」格式，Author 固定为 Connie黃小鲨。
+很好。现在请把这些封面、目录和所有正式图鉴页面按照正确顺序合并成最终 PDF；目录中的每个正式标题都要可以点击并直接跳到对应页面，同时写入 PDF Metadata：Title 使用「知识领域 | 主题中文名 English Name」格式；Author 固定为 Connie黃小鲨。
 ```
