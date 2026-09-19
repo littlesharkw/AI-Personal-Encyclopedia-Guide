@@ -7,6 +7,21 @@ Recommended AI: ChatGPT
 
 ---
 
+## BEFORE YOU START
+
+建议打开一个新的 ChatGPT 对话。
+
+手动上传：
+
+① **Official Master Index**  
+② **Official Visual Style Lock**
+
+确认两个文件都已经在当前对话中可用后，
+再发送下面的 Prompt。
+
+第一次设置完成后，
+不需要在每次 Scheduled Run 前重新上传文件。
+
 # PROMPT
 
 ```text
